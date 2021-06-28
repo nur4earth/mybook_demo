@@ -1,6 +1,7 @@
 # mybook_demo
 
-# LINK FOR REAL DEMO VERSION MyBook === > https://mybook.com.kz/login.php
+# link for real DEMO version MyBook
+https://mybook.com.kz/login.php
 
 1)
 
