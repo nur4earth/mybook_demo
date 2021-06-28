@@ -1,7 +1,6 @@
 # mybook_demo
 
-# link for real DEMO version MyBook
-https://mybook.com.kz/login.php
+Online Demo: https://mybook.com.kz/
 
 1)
 
